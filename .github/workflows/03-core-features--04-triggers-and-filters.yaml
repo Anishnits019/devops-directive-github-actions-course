@@ -26,7 +26,7 @@ on:
   # schedule:
   #   - cron: "0 0 * * *" # Midnight UTC
 
-  ## Manual Trigger
+  # Manual Trigger
   workflow_dispatch:
 jobs:
   echo-event:
